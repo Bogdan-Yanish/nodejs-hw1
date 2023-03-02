@@ -1,0 +1,19 @@
+{
+  "name": "node-hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/Bogdan-Yanish/nodejs-hw1/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
