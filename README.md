@@ -1,4 +1,4 @@
-HOMEWORK - TASK 1 - 
+HOMEWORK - TASK 1:
 
 Get and display the entire list of contacts in the form of a table:
 https://monosnap.com/file/wO6FH1UqEsU5gml7l3Jg50AjbmLlnr
